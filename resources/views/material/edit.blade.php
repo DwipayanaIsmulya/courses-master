@@ -5,7 +5,7 @@
         <div class="card-header">
           <h2 class="card-title fs-2">Tambah Data Materi</h2>
           <div class="card-toolbar">
-            <a href="{{ route('material.index') }}" class="btn btn-sm btn-outline-primary">
+            <a href="{{ route('course.index') }}" class="btn btn-sm btn-outline-primary">
               Kembali
             </a>
           </div>
